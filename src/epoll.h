@@ -1,4 +1,4 @@
-
+//先把.h都看了再弄.c的 
 /*
  * Copyright (C) Zhu Jiashun
  * Copyright (C) Zaver
